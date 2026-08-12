@@ -1,4 +1,4 @@
-#🧮 Python Calculator Project
+# 🧮 Python Calculator Project
 
 📌 **Description:**
 
